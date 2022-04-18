@@ -11,8 +11,8 @@ I work on Web and Mobile Technologies.
 I continue to develop projects📃
 
 ### 📩 Connect with me:
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
