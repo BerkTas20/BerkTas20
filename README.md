@@ -13,7 +13,7 @@ I continue to develop projects📃
 ### 📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/" />][linkedin]
 <br />
-
+berktasss20@gmail.com
 ### 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
