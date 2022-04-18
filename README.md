@@ -12,7 +12,7 @@ I continue to develop projects📃
 
 ### 📩 Connect with me:
 berktasss20@gmail.com
- GitHub adresime [buradan](github.com/cobanov)
+Linkedln [buradan](https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/)
 
 
 ### 🔧 Languages and Tools:
