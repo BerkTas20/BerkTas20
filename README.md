@@ -13,7 +13,7 @@ I continue to develop projects📃
 ### 📩 Connect with me:
 -  berktasss20@gmail.com
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-[Linkedln](https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/)
+- [Linkedln](https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/)
   
 ### 🔧 Languages and Tools:
 <p>
