@@ -11,11 +11,10 @@ I work on Web and Mobile Technologies.
 I continue to develop projects📃
 
 ### 📩 Connect with me:
-berktasss20@gmail.com
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+-  berktasss20@gmail.com
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 [Linkedln](https://www.linkedin.com/in/berk-ta%C5%9F-22b9801b5/)
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  
 ### 🔧 Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
