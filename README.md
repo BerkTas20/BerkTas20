@@ -10,7 +10,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+  <img src="https://img.shields.io/badge/RESTFUL-AP%C4%B0-green" />
+
   
 </p>
 <br />
