@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/RESTFUL-AP%C4%B0-green" />
  <img src="https://img.shields.io/badge/-restassured-orangered" />
  <img src="https://img.shields.io/badge/-microservices-blue" />
+ <img src="https://img.shields.io/badge/-junittest-blueviolet" />
+ 
  
 </p>
 <br />
